@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 皇霸文紀
-#+DATE: 2020-03-31 11:42:30.911559
+#+DATE: 2020-03-31 11:42:31.114234
 #+PROPERTY: ID KR4h0120
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4h0120_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部八¶
